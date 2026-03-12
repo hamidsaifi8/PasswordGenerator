@@ -9,7 +9,7 @@ Option to include:
  - Numbers
  - Special characters
 
-Copy password to clipboard
+Copy password to clipboard, 
 Simple and clean responsive UI
 
 🛠️ Technologies Used
